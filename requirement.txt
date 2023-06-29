@@ -1,0 +1,8 @@
+Django==4.2.2
+asgiref
+Pillow
+sqlparse
+typing_extensions
+tzdata
+djangorestframework
+mysqlclient  
